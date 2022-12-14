@@ -1,0 +1,8 @@
+File word2vec_text_GloVe_format.wordsonly.txt
+includes the tokens from Mikolov et al. (2013) Word2vec embeddings pretrained
+on Google News.
+The original file was downloaded at: https://code.google.com/archive/p/word2vec/
+filename GoogleNews-vectors-negative300.bin.gz
+
+The extraction process consisted of conversion to GloVe text format
+and then extracting the tokens only.
